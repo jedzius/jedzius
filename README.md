@@ -10,7 +10,7 @@
 </p>
 <h1>Owned projects</h1>
 <p align="left">
-    <a href="https://minetop.pl">
+    <a href="https://minetop.pl" display="flex">
         <img width="100px" src="https://i.imgur.com/gjJ4FkE.png" alt="minetop-img">
         <p>technician & developer</p>
     </a>
