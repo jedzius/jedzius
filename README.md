@@ -11,6 +11,6 @@
 <h1>Owned projects</h1>
 <p align="left">
     <a href="https://minetop.pl">
-        <img src="https://i.imgur.com/gjJ4FkE.png" alt="minetop-img">
+        <img width="150px" src="https://i.imgur.com/gjJ4FkE.png" alt="minetop-img">
     </a>
 </p>
