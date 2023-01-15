@@ -9,9 +9,11 @@
   </a>
 </p>
 <h1>Owned projects</h1>
-<p align="left">
+<p align="left" display="flex">
     <a href="https://minetop.pl" display="flex">
         <img width="100px" src="https://i.imgur.com/gjJ4FkE.png" alt="minetop-img">
-        <p>technician & developer</p>
+    </a>
+    <a href="https://pvpcloud.pl" display="flex">
+        <img width="100px" src="https://cdn.discordapp.com/icons/1060639816716394587/658c7879df273acd23262c887c7feb58.webp?size=240" alt="pvpcloud-img">
     </a>
 </p>
