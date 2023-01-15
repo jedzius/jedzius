@@ -17,3 +17,7 @@
         <img width="100px" src="https://cdn.discordapp.com/icons/1060639816716394587/658c7879df273acd23262c887c7feb58.webp?size=240" alt="pvpcloud-img">
     </a>
 </p>
+<h1 align="center">GitHub Stats</h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jedziemy&show_icons=true&theme=tokyonight" />
+</div>
