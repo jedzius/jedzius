@@ -2,9 +2,15 @@
 <h3 align="center">Smart, fashionable, young developer from Poland</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedziemy&label=Profile%20views&color=0e75b6&style=flat" alt="jedziusdd" /> </p>
 
-<h3 style="font-size: 23px">Languages and Tools</h3>
+<h1>Languages and Tools</h1>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,go,gradle,maven,idea,kotlin,mysql,redis,postgresql,mongodb,&perline=4"/>
+    <img src="https://skillicons.dev/icons?i=github,go,gradle,maven,idea,kotlin,mysql,redis,postgresql,mongodb,&perline=5"/>
   </a>
+</p>
+<h1>Owned projects</h1>
+<p align="left">
+    <a href="https://minetop.pl">
+        <img src="https://i.imgur.com/gjJ4FkE.png" alt="minetop-img">
+    </a>
 </p>
