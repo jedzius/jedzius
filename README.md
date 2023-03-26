@@ -17,5 +17,6 @@
 <h1 align="left">GitHub Stats</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jedzius&show_icons=true&theme=tokyonight" />
+  <div style="margin-left: 25px;"></div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jedzius&theme=tokyonight&hide_border=true" />
 </div>
