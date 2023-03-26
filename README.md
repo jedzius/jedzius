@@ -5,7 +5,7 @@
 <h1>Languages and Tools</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,go,gradle,maven,idea,kotlin,mysql,redis,postgresql,mongodb,&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=github,go,gradle,maven,idea,java,javascript,kotlin,mysql,redis,postgresql,mongodb,&perline=5"/>
   </a>
 </p>
 <h1>Owned projects</h1>
