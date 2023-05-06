@@ -13,6 +13,8 @@
     <a href="https://mylobby.pl" display="flex" margin-left="25px">
         <img width="100px" src="https://cdn.discordapp.com/icons/976987326037241896/ae7e25d5ff434df710c1edde6afac619.webp?size=96" alt="mylobby-img">
     </a>
+    <a href="https://spigotty.xyz" display="flex" margin-left="25px">
+      <img width="100px" src="https://avatars.githubusercontent.com/u/132749707?v=4" /></a>
 </p>
 <h1 align="left">GitHub Stats</h1>
 <div align="center">
