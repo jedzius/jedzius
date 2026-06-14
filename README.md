@@ -1,16 +1,29 @@
-<h1 align="center">Hi 👋, I'm jedzius</h1>
-<h3 align="center">I build things, break stuff (on purpose), and automate the boring.
-  🚀 Passionate about clean code, clever systems, and open-source tinkering.
-  🛠️ Mostly working with Java & Python.</h3>
-</br>
+# Hi there, I'm jedzius! 👋
 
-  
-<h3>😉 Feel free to reach out — happy to assist!</h3>
- 
-<h1>Languages and Tools</h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,gradle,maven,idea,java,kotlin,mysql,redis,postgresql,mongodb,linux,bash&perline=6"/>
-  </a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jedziemy&label=Profile%20views&color=0e75b6&style=flat" alt="jedziusdd" /> </p>
+I'm a backend and systems developer passionate about building high-performance, scalable game infrastructure, plugin development, and efficient network automation. Most of my work revolves around robust Java/Kotlin applications, microservices communication, and optimizing high-traffic game servers.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Java, Kotlin, Python
+- **Frameworks & APIs:** Spring Boot, Spigot/Paper API, Velocity, BungeeCord, OpenAI
+- **Messaging & Microservices:** NATS (Distributed Messaging)
+- **Databases:** MongoDB, MySQL, PostgreSQL
+
+---
+
+### 🚀 What I Do
+
+- 🎮 **Game Infrastructure & Load Balancing:** Designing multi-server networks with intelligent traffic distribution (Load Balancing) across dynamic proxy controllers (Velocity/Bungee), capable of handling player spikes and automated arena cycling.
+- ⚙️ **Event-Driven Microservices:** Integrating fast messaging queues like NATS to sync data seamlessly between proxy servers and backend game instances.
+- 📦 **Custom Frameworks & Automation:** Creating modular plugins with advanced database connection wrappers, custom command handling, and automated world resetting scripts.
+
+---
+
+### 💬 Connect with Me
+
+- **Discord:** `jedzius`
+- **GitHub:** [@jedzius](https://github.com/jedzius)
+
+*Feel free to reach out if you want to collaborate on high-performance projects, plugin architecture, or backend systems!*
