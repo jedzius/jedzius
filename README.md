@@ -17,7 +17,6 @@ I'm a backend and systems developer passionate about building high-performance, 
 
 - 🎮 **Game Infrastructure & Load Balancing:** Designing multi-server networks with intelligent traffic distribution (Load Balancing) across dynamic proxy controllers (Velocity/Bungee), capable of handling player spikes and automated arena cycling.
 - ⚙️ **Event-Driven Microservices:** Integrating fast messaging queues like NATS to sync data seamlessly between proxy servers and backend game instances.
-- 📦 **Custom Frameworks & Automation:** Creating modular plugins with advanced database connection wrappers, custom command handling, and automated world resetting scripts.
 
 ---
 
